@@ -29,3 +29,8 @@ hitting the edges = -1
 
 Run car.py, draw "sand" lines as obstacles for the car. Current NN gains can
 be saved for future load.
+
+Know issues with kivy: crash when window is resized or maximized
+
+![img.png](img.png)
+![Learning_curve.png](Learning_curve.png)
